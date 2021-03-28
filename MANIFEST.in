@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include estamosdepaso_site *.css
+recursive-include estamosdepaso_site *.csv
+recursive-include estamosdepaso_site *.html
+recursive-include estamosdepaso_site *.ico
+recursive-include estamosdepaso_site *.js
+recursive-include estamosdepaso_site *.json
+recursive-include estamosdepaso_site *.md
+recursive-include estamosdepaso_site *.png
+recursive-include estamosdepaso_site *.py
+recursive-include estamosdepaso_site *.svg
+recursive-include estamosdepaso_site *.txt
+recursive-exclude estamosdepaso_site *.pyc
