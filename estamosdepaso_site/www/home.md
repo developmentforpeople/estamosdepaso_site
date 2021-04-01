@@ -1,7 +1,7 @@
 
 # home
 
-[Instarar ERPNext](/frappe-erpnext/instalar)
+[Instalar ERPNext](/frappe-erpnext/instalar)
 
 
 Bienvenidxs
