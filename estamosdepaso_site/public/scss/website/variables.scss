@@ -1,0 +1,12 @@
+
+// Nuestras variables
+$edp-color-primary: #2f7617;
+$edp-color-background: #eff5eb;
+
+
+// Fuentes
+@import "fonts";
+
+
+// Override de las variables de Bootstrap
+@import "variables-bootstrap";

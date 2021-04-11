@@ -1,0 +1,44 @@
+
+// Exportar con: https://google-webfonts-helper.herokuapp.com/fonts
+
+/* kiwi-maru-regular - latin */
+@font-face {
+	font-family: 'Kiwi Maru';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/assets/estamosdepaso_site/fonts/kiwi-maru-v1-latin/kiwi-maru-v1-latin-regular.eot'); /* IE9 Compat Modes */
+	src: local(''),
+		url('/assets/estamosdepaso_site/fonts/kiwi-maru-v1-latin/kiwi-maru-v1-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		url('/assets/estamosdepaso_site/fonts/kiwi-maru-v1-latin/kiwi-maru-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/assets/estamosdepaso_site/fonts/kiwi-maru-v1-latin/kiwi-maru-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
+		url('/assets/estamosdepaso_site/fonts/kiwi-maru-v1-latin/kiwi-maru-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/assets/estamosdepaso_site/fonts/kiwi-maru-v1-latin/kiwi-maru-v1-latin-regular.svg#KiwiMaru') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-regular - latin */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/assets/estamosdepaso_site/fonts/montserrat-v15-latin/montserrat-v15-latin-regular.eot'); /* IE9 Compat Modes */
+	src: local(''),
+		url('/assets/estamosdepaso_site/fonts/montserrat-v15-latin/montserrat-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		url('/assets/estamosdepaso_site/fonts/montserrat-v15-latin/montserrat-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/assets/estamosdepaso_site/fonts/montserrat-v15-latin/montserrat-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+		url('/assets/estamosdepaso_site/fonts/montserrat-v15-latin/montserrat-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/assets/estamosdepaso_site/fonts/montserrat-v15-latin/montserrat-v15-latin-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* ubuntu-mono-regular - latin */
+@font-face {
+	font-family: 'Ubuntu Mono';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/assets/estamosdepaso_site/fonts/ubuntu-mono-v10-latin/ubuntu-mono-v10-latin-regular.eot'); /* IE9 Compat Modes */
+	src: local(''),
+		url('/assets/estamosdepaso_site/fonts/ubuntu-mono-v10-latin/ubuntu-mono-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		url('/assets/estamosdepaso_site/fonts/ubuntu-mono-v10-latin/ubuntu-mono-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/assets/estamosdepaso_site/fonts/ubuntu-mono-v10-latin/ubuntu-mono-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+		url('/assets/estamosdepaso_site/fonts/ubuntu-mono-v10-latin/ubuntu-mono-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/assets/estamosdepaso_site/fonts/ubuntu-mono-v10-latin/ubuntu-mono-v10-latin-regular.svg#UbuntuMono') format('svg'); /* Legacy iOS */
+}

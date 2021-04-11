@@ -1,0 +1,33 @@
+
+// Variables añadidas manualmente en el "Website Theme" (eliminadas porque daba error quill)
+//   // Importamos los temas desde aquí para controlar el orden de carga
+//   @import "estamosdepaso_site/public/scss/before-frappe-website.scss";
+//   @import "frappe/public/scss/website";
+//   @import "estamosdepaso_site/public/scss/website/index";
+//   // IMPORTANTE!! CAMBIAR ESTE NÚMERO PARA COMPILAR EL SCSS: 000
+
+// Nuestras variables 
+@import "variables";
+
+// Importamos los estilos del website de Frappe (Bootstrap included)
+@import "frappe/public/scss/website";
+
+// Incorporamos los estilos para el formateado de código con "highlightjs"
+@import "frappe/public/css/hljs-night-owl";
+
+
+// Nuestro SCSS:
+
+.navbar-light {
+	border-bottom: none;
+	background: transparent;
+	margin-bottom: 50px;
+}
+.navbar-brand {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.navbar-brand img {
+	max-width: 230px;
+	max-height: 85px;
+}
