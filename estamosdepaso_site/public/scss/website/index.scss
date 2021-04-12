@@ -10,7 +10,8 @@
 @import "variables";
 
 // Importamos los estilos del website de Frappe (Bootstrap included)
-@import "frappe/public/scss/website";
+// @import "frappe/public/scss/website";
+@import "frappe-index.scss";
 
 // Incorporamos los estilos para el formateado de código con "highlightjs"
 @import "frappe/public/css/hljs-night-owl";

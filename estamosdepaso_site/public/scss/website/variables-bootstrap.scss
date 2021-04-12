@@ -297,7 +297,8 @@ $body-bg:                   $edp-color-background;
 $font-family-serif: "Kiwi Maru", Georgia, Times, "Times New Roman", serif;
 $font-family-sans-serif: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-family-monospace: "Ubuntu Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
-$font-family-base: $font-family-serif;
+$font-family-base: $font-family-sans-serif;
+// $font-family-base: $font-family-serif;
 // // stylelint-enable value-keyword-case
 
 // $font-size-base:              1rem !default; // Assumes the browser default, typically `16px`
@@ -322,7 +323,8 @@ $font-family-base: $font-family-serif;
 
 // $headings-margin-bottom:      $spacer / 2 !default;
 // $headings-font-family:        null !default;
-$headings-font-family: $font-family-sans-serif;
+$headings-font-family: $font-family-serif;
+// $headings-font-family: $font-family-sans-serif;
 // $headings-font-weight:        500 !default;
 // $headings-line-height:        1.2 !default;
 // $headings-color:              null !default;
