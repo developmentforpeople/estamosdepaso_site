@@ -1,7 +1,14 @@
 
+$palette_a: #E63946;
+$palette_b: #F1FAEE;
+$palette_c: #A8DADC;
+$palette_d: #457B9D;
+$palette_e: #1D3557;
+
 // Nuestras variables
-$edp-color-primary: #2f7617;
-$edp-color-background: #eff5eb;
+$edp-color-primary: $palette_a;
+$edp-color-background: $palette_b;
+$edp-color-text: $palette_e;
 
 
 // Fuentes

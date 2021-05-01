@@ -181,8 +181,8 @@ $primary:       $edp-color-primary;
 // //
 // // Settings for the `<body>` element.
 
-$body-bg:                   $edp-color-background;
-// $body-color:                $gray-900 !default;
+$body-bg: $edp-color-background;
+$body-color: $edp-color-text;
 
 
 // // Links
