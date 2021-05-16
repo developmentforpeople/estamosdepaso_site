@@ -1,0 +1,35 @@
+{
+  "name": "estamosdepaso-pwa",
+  "short_name": "estamosdepaso-pwa",
+  "theme_color": "#4DBA87",
+  "icons": [
+    {
+      "src": "/assets/estamosdepaso_site/pwa/img/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/estamosdepaso_site/pwa/img/icons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/estamosdepaso_site/pwa/img/icons/apple-touch-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/estamosdepaso_site/pwa/img/icons/safari-pinned-tab.svg",
+      "sizes": "942x942",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/assets/estamosdepaso_site/pwa/img/icons/msapplication-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000"
+}

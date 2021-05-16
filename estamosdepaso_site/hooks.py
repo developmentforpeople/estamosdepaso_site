@@ -11,6 +11,11 @@ app_color = "grey"
 app_email = "developmentforpeople@gmail.com"
 app_license = "MIT"
 
+# # TODO: check with future Frappe versions because with 12 is not yet implemented!!!
+# override_doctype_class = {
+# 	"Blog": "aef_site2.overrides.todo.CustomToDo",
+# }
+
 # Includes in <head>
 # ------------------
 
@@ -37,6 +42,11 @@ app_license = "MIT"
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
+
+# Redirects / Rewrites
+# website_route_rules = [
+#     {"from_route": "/pwa/<name>", "to_route": "app/projects/project"},
+# ]
 
 # Home Pages
 # ----------
