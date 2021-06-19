@@ -10,6 +10,8 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "developmentforpeople@gmail.com"
 app_license = "MIT"
+# app_logo_url = '/assets/frappe/images/frappe-framework-logo.svg'
+app_logo_url = '/files/logo.png'
 
 # # TODO: check with future Frappe versions because with 12 is not yet implemented!!!
 # override_doctype_class = {

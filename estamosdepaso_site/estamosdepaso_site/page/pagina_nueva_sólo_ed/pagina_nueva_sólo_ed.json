@@ -1,0 +1,21 @@
+{
+ "content": null,
+ "creation": "2021-05-16 20:28:04.987278",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "house",
+ "idx": 0,
+ "modified": "2021-05-16 20:28:04.987278",
+ "modified_by": "Administrator",
+ "module": "EstamosDePaso Site",
+ "name": "pagina-nueva-s\u00f3lo-ed",
+ "owner": "Administrator",
+ "page_name": "pagina nueva s\u00f3lo EDP",
+ "restrict_to_domain": "EDP",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 1,
+ "title": "nombre"
+}
